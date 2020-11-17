@@ -1,0 +1,128 @@
+body {
+    margin: 0px auto;
+    padding: 0px;
+    font-family: 'Nunito', sans-serif;
+    width: 1440px;
+    background-color: #EEEAEB;
+}
+
+.header {
+    margin: 0px auto;
+    display: flex;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+.properties-login {
+    margin: 186px 10px 185px 128px;
+    width: 555px;
+    height: 653px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title {
+    margin: 43px 271px 0px 71px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title-logo {
+    margin: 73px 305px 0px 73px;
+}
+
+.create-btn {
+    padding: 0px;  
+    margin-left: 3px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #F7B602;
+    font-family: 'Nunito', sans-serif;
+}
+
+.create-container {
+    margin: 0px 260px 0px 71px;
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+}
+
+.forgot-btn {
+    font-family: 'Nunito', sans-serif;
+}
+
+.login-paragraph {
+    margin: 0px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;    
+    color: #7B7B80;
+}
+
+.email {
+    margin: 50px 445px 7px 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;    
+    color: #7B7B80;
+}
+
+.password{
+    margin: 0px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;    
+    color: #7B7B80;
+}
+
+.login-password {
+    width: 415px;
+    margin: 40px auto 8px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign-btn {
+    margin: 70px;
+    width: 415px;
+    height: 48px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    border-radius: 8px;
+    color: #000000;
+    background: #F7B602;
+    font-family: 'Nunito', sans-serif;
+}
+
+.login-input {
+    margin: 0px 70px;
+    width: 415px;
+    height: 45px;
+    border: 1px solid #7B7B80;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.login-img {
+    width: 768px;
+    height: 902px;
+    margin-top: 60px;
+}
