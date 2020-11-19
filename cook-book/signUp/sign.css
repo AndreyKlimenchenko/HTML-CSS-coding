@@ -1,0 +1,119 @@
+body {
+    margin: 0px auto;
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+    background: linear-gradient(to bottom right, rgb(242, 249, 249),rgb(201, 215, 219));
+    background-size: 100%;    
+}
+.header {    
+    width: 1440px;
+    height: 1162px;
+    margin: 0px auto;
+    box-sizing: border-box;
+    background: url(../signUp/sign-image.jpg) no-repeat;    
+}
+
+.properties-login {
+    width: 555px;
+    height: 768px;
+    margin: 128px 128px 128px 757px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title {
+    margin: 12px 202px 0px 71px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+    font-family: 'Nunito', sans-serif;
+}
+
+.title-logo {
+    margin: 75px 305px 30px 73px;
+}
+
+.create-btn {
+    padding: 0px;  
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #F7B602;
+    font-family: 'Nunito', sans-serif;
+}
+
+.create-container {
+    margin: 0px 200px 50px 70px;
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+}
+
+.login-paragraph {
+    margin: 0px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;    
+    color: #7B7B80;
+}
+
+.login-input {
+    margin-left: 70px;
+    width: 415px;
+    height: 45px;
+    border: 1px solid #7B7B80;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.email {
+    margin: 0px 445px 8px 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;    
+    color: #7B7B80;
+}
+
+.password {
+    margin: 40px 413px 8px 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;    
+    color: #7B7B80;
+}
+
+.password-repeat {
+    margin: 40px 358px 8px 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;    
+    color: #7B7B80;
+}
+
+.sign-btn {
+    width: 415px;
+    height: 48px;
+    margin: 70px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    border-radius: 8px;
+    color: #000000;
+    background: #F7B602;
+    font-family: 'Nunito', sans-serif;
+}
